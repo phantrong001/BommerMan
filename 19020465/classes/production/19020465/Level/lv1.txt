@@ -1,0 +1,29 @@
+1 13 15
+1wwwwwwwwwwwwww
+#*#b#*#*#*#*#x#
+1wwwwwwwwwwwwww
+#*#*#*#*#b#*#f#
+1wwwwwwwwwwwwww
+#*#*#*#s#*#*#f#
+1wwwwwwwwwwwwww
+#*#*#*#*#*#*#*#
+1wwwwwwwwwwwwww
+#*#*#*#*#f#*#s#
+1wwwwwwwwwwwwww
+#*#*#s#*#b#*#*#
+pwwwwwwwwwwwwww
+
+Info Tiles:
+w - grass
+# - Wall
+* - Brick
+x - Portal
+
+Mobs:
+p - Player
+1 - Monster
+
+Powerups:
+b - Powerup Bombs
+f - Powerup Flames
+s - Powerup Speed
